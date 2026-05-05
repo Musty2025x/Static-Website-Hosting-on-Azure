@@ -51,7 +51,7 @@ $web container (index.html, 404.html, css/, js/, assets/)
 3. Click **Review + Create → Create**
 
 ### Screenshot — Storage Account Overview
-![Storage Account Overview](asset/storage_account_overview.png)
+![Storage Account Overview](asset/storage_acccount_ovierview.png)
 
 ---
 
