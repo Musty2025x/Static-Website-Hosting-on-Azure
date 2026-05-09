@@ -24,6 +24,7 @@ Azure Blob Storage — Static Website
      ▼
 $web container (index.html, 404.html, css/, js/, assets/)
 ```
+<img width="2129" height="1050" alt="architecture_Static_Website" src="https://github.com/user-attachments/assets/e9c9bb02-f005-4b32-9d4e-1ad419dca0d0" />
 
 ---
 
